@@ -10,20 +10,20 @@ The syllabus (in Hungarian) is [here](https://github.com/aakosm/QTA_SZISZ_2019/b
 
 ## Topics
 
-| **Week** | **Topic** | **Slides** | **Scripts** |
-| --- | ----------------------------------------------- | --- | --- |
-|  1  |  Fundamentals | [Link](https://github.com/aakosm/QTA_SZISZ_2019/blob/master/week01_intro/01_intro.pdf) | - |
-|  2  |  Intro to R  | | |
-|  3  |  Descriptive statistics (and pre-processing)   | | |
-|  4  |  Descriptive statistics | | |
-|  5  |  Dictionary based methods    | | |
-|  6  |  Machine learning applications | | |
-|  7  |  Text similarity and clustering | | |
-|  8  |  Scaling | | |
-|  9  |  Topic models | | |
-|  10 |  Project proposal presentations | | |
-|  11 |  Getting data: Webscraping, social media API | | |
-|  12 |  TBA | | |
+| **Week** | **Date** | **Topic** | **Slides** | **Scripts** |
+| --- | ---- |----------------------------------------------- | --- | --- |
+|  1 | 09/13  |  Fundamentals | [Link](https://github.com/aakosm/QTA_SZISZ_2019/blob/master/week01_intro/01_intro.pdf) | - |
+|  2  | 09/20 | Intro to R  | | |
+|  3  | 09/27 | Descriptive statistics (and pre-processing)   | | |
+|  4  | 10/04 | Descriptive statistics | | |
+|  5  |  10/11| Dictionary based methods    | | |
+|  6  |  10/18| Machine learning applications | | |
+|  7  |  10/25| Text similarity and clustering | | |
+|  8  |  11/01| Scaling | | |
+|  9  |  11/08| Topic models | | |
+|  10 |  11/15| Project proposal presentations | | |
+|  11 |  22/15| Getting data: Webscraping, social media API | | |
+|  12 |  29/15| TBA | | |
 
 
 ## Acknowledgements
