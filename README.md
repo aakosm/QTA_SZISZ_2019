@@ -13,7 +13,7 @@ The syllabus (in Hungarian) is [here](https://github.com/aakosm/QTA_SZISZ_2019/b
 | **Week** | **Date** | **Topic** | **Slides** | **Scripts** |
 | --- | ---- |----------------------------------------------- | --- | --- |
 |  1 | 09/13  |  Fundamentals | [Link](https://github.com/aakosm/QTA_SZISZ_2019/blob/master/week01_intro/01_intro.pdf) | - |
-|  2  | 09/20 | Intro to R  | | |
+|  2  | 09/20 | Intro to R  | - | [Link](https://aakosm.github.io/QTA_SZISZ_2019/week02_r_intro/02_r_intro.html) |
 |  3  | 09/27 | Descriptive statistics (and pre-processing)   | | |
 |  4  | 10/04 | Descriptive statistics | | |
 |  5  |  10/11| Dictionary based methods    | | |
