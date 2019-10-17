@@ -16,7 +16,7 @@ The syllabus (in Hungarian) is [here](https://github.com/aakosm/QTA_SZISZ_2019/b
 |  2  | 09/20 | Intro to R  | - | [Link](https://aakosm.github.io/QTA_SZISZ_2019/week02_r_intro/02_r_intro.html) |
 |  3  | 09/27 | Descriptive statistics (and pre-processing)   | [Link](https://aakosm.github.io/QTA_SZISZ_2019/week03_descriptives_i/03_descriptives.pdf) | [Link](https://aakosm.github.io/QTA_SZISZ_2019/week03_descriptives_i/session3_r_script.html) |
 |  4  | 10/04 | Descriptive statistics | [Link](https://aakosm.github.io/QTA_SZISZ_2019/week03_descriptives_i/03_descriptives.pdf) |[Link](https://aakosm.github.io/QTA_SZISZ_2019/wweek04_descriptives_ii/04_descriptives_ii.html) |
-|  5  |  10/11| Dictionary based methods    | | |
+|  5  |  10/11| Dictionary based methods    |[Link](https://aakosm.github.io/QTA_SZISZ_2019/week05_dictionary/05_dictionary.pdf) |[Link](https://aakosm.github.io/QTA_SZISZ_2019/week05_dictionary/05_dictionary.html) |
 |  6  |  10/18| Machine learning applications | | |
 |  7  |  10/25| Text similarity and clustering | | |
 |  8  |  11/01| Scaling | | |
